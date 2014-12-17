@@ -1,0 +1,26 @@
+What is node?
+
+-Command line tool used to run javascript (node app.js in the command prompt)
+-Javascript code is executed by the V8 Javascript engine (same one google chrome uses)
+-Javascript API provided for networking and filesystem
+-No DOM API (node is decoupled from the browser)
+
+
+Excecution model:
+-Single threaded
+-event driven programming
+-Make use of asynchronous programming and promises to prevent blocking
+
+Sources:
+
+NodeJS
+http://nodejs.org/
+
+npm
+https://www.npmjs.com/
+
+Understanding node js
+http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb
+
+The Node Beginner Book
+http://www.nodebeginner.org/
