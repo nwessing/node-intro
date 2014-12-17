@@ -33,7 +33,8 @@ router.addRoute('/sources/', function (request, response) {
 		{ name: 'NodeJS', url: 'http://nodejs.org/'},
 		{ name: 'npm', url: 'https://www.npmjs.com/'},
 		{ name: 'Understanding node js', url: 'http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb'},
-		{ name: 'The Node Beginner Book', url: 'http://www.nodebeginner.org/'}
+		{ name: 'The Node Beginner Book', url: 'http://www.nodebeginner.org/'},
+		{ name: 'Interactive Tutorials', url: 'http://nodeschool.io/'}
 	]);
 });
 
